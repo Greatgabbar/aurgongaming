@@ -9,3 +9,4 @@
   "STAY_TIME": 30,
   "DEFAULT_VOLUME": 100
 }
+   node index.js
